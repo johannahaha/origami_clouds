@@ -1,0 +1,24 @@
+{
+  "name": "graphics_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.html",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html",
+    "heroku-postbuild": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-nightly.540",
+    "simplex-noise": "^2.4.0",
+    "three": "^0.124.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.540"
+  }
+}

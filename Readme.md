@@ -17,12 +17,6 @@ For my final project of TBAG, I created a morning scene. As an audio piece, I re
 
 ## audio project: a weird muesli morning
 
-<audio controls>
-  <source src="morning.mp3" type="audio/mpeg">
-  
-  Your browser does not support the audio element.
-</audio></html>
-
 My idea was to create a morning feeling with the piece, using only sounds recorded while making cereal. It starts with a quiet, strange sound. More and more sounds emerge and it becomes a bit more abstract. The sounds build-up for a while until the noises stop and all you hear is the loud scraping of the spoon. From then on, a second, more rhythmic part kicks in. This is supposed to be the more active part of the morning, where you get into your routine and just act. From time to time the rhythm is interrupted by something slightly unexpected - like a real morning. Towards the end, the rhythm is interrupted more and more and turns into a strange, broken sound. In the end, all you hear is a slamming and the sad sound of a scraping spoon. This is the moment when you close the door and start the day.
 
 For my piece of music concrète, I recorded sounds made while eating cereal in the morning. I didn't use any food sounds. Instead, I tried to capture all the other sounds that might not be so obvious. These included throwing cereal into a bowl, shaking it in the box, using different types and different textures of cereal, including muesli and oats. I recorded a 'clink' sound that a cereal made when it touched the ceramic bowl. I also recorded the opening of a milk bottle, the scratching of the surface of the bowl with a spoon, the pouring of milk around the cereal, the closing of the fridge and a voice that occurred randomly during the recording (the "aaahhh" sound).
