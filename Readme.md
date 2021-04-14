@@ -1,16 +1,3 @@
----
-# Please replace every occurrence of "xxxx" in this header area with your personal information.
-layout: post
-title: "origami clouds and a weird morning"
-author: "johanna hartmann"
-categories: Projects
-tags: TBAG WS2021 Audio threejs
-
-# The cover image will be seen first. It will also be used to enlist your project amonst others.
-cover-image: origamiclouds.png # choose your desired image file format — must be supported by web browsers — only one
-cover-image-title: Origami Clouds in Three.js and a Musique Concrete Piece made with Muesli # a descriptive title for the image
----
-
 ## Abstract
 
 For my final project of TBAG, I created a morning scene. As an audio piece, I recorded sample files from the sounds, that a bowl of granola in the morning created and composed a Musique Concrète Piece out of it. For the graphics part, I extruded vertices of a triangle-subdivided cube and morphed between different extrusions to create the feeling of clouds. That, I did in Three.js
